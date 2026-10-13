@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Tests/">
+    <Project Path="../VersioningDemo.IntegrationTests/VersioningDemo.IntegrationTests.csproj" />
+  </Folder>
+  <Project Path="../VersioningDemo.Api/VersioningDemo.Api.csproj" />
+  <Project Path="../VersioningDemo.Application/VersioningDemo.Application.csproj" />
+  <Project Path="../VersioningDemo.Infrastructure/VersioningDemo.Infrastructure.csproj" />
+  <Project Path="VersioningDemo.Domain/VersioningDemo.Domain.csproj" />
+</Solution>
